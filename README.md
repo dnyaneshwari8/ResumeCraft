@@ -155,7 +155,7 @@ If you'd like to contribute:
 
 - GitHub: https://github.com/dnyaneshwari8
 - LinkedIn: https://www.linkedin.com/in/dnyaneshwari-thorat-7b213b361/
-- Portfolio: *(Add your portfolio link here)*
+
 
 ---
 
